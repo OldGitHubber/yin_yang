@@ -1,6 +1,6 @@
 /yin/node_modules
 /yang/node_modules
-.env
+#.env
 .vscode
 bastion_infra
 public_infra
